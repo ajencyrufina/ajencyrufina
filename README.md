@@ -74,12 +74,6 @@ A plant disease detection app (built with Dart/Flutter) using image classificati
 
 ---
 
-## 📊 GitHub Stats
-
-![Jency's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 🎯 Career Goal
 
 To build a strong career in **Core Electrical Engineering & Embedded Systems**, focusing on real-world industrial applications.
