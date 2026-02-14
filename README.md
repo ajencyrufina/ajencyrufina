@@ -45,7 +45,23 @@
 
 ## 🔬 Projects
 
+### 🔧 **push_pull_inverter**
+A C++ based inverter project that implements amplitude control and frequency tracking logic for power electronics applications.
 
+### ☁️ **AWS_for_power_management**
+Python project utilizing AWS services for managing power system data streams and analytics.
+
+### 📡 **digital_frequency_meter**
+A digital frequency measurement system built with C++, useful for signal processing and electrical measurement applications.
+
+### 💼 **summer_internship_projects**
+A collection of real-world internship assignments and engineering mini-projects demonstrating hands-on experience.
+
+### ⚡ **unbalanced_load_detection**
+Embedded/measurement project focusing on detection of unbalanced electrical loads in power circuits.
+
+### 🌿 **AgriScan_plant_disease_detection**
+A plant disease detection app (built with Dart/Flutter) using image classification techniques to identify crop diseases.
 
 ---
 
@@ -72,5 +88,5 @@ To build a strong career in **Core Electrical Engineering & Embedded Systems**, 
 
 ## 📫 Connect with Me
 
-- LinkedIn: [(Add your link here)](https://www.linkedin.com/in/jency-rufina-a-57b4081b4/)
-- Email: [(Add your link here)](ajencyrufina@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/jency-rufina-a-57b4081b4/]
+- Email: [ajencyrufina@gmail.com]
