@@ -1,14 +1,13 @@
 # Hi 👋, I'm Jency Rufina
 
 🎓 Electrical & Computer Science Engineering Student  
-⚡ Passionate about Embedded Systems, Core Electrical Engineering &  Electric Machines
+⚡ Passionate about Embedded Systems & Core Electrical Engineering
 💻 Interested in building real-time data systems and engineering software tools  
 
 ---
 
 ## 🚀 About Me
-
-📊 Interested in Electric Machine Modelling & Power System Analysis  
+ 
 🛠️ Experienced with Microcontrollers (8051, LPC2138)  
 📈 Exploring advanced embedded and control system applications  
 
@@ -27,16 +26,17 @@
 - LPC2138
 - Serial Communication
 - ADC Interfacing
-- LCD (16x2 – 4-bit mode)
+- Peripherals
 
 ### 🔹 Software & Tools
 - PyQt5
 - Proteus Simulation
 - Keil uVision
 - MATLAB
+- Fusion
+- Android Studio
 
 ### 🔹 Core Electrical
-- Electric Machine Modelling
 - Power System Analysis
 - Fault Analysis
 - Control Systems Basics
@@ -67,10 +67,8 @@ A plant disease detection app (built with Dart/Flutter) using image classificati
 
 ## 📚 Currently Learning
 
-- Electric Machine Modelling  
-- Power Electronics Basics  
 - Real-time Embedded Systems  
-- Control System Applications  
+- Embedded Linux 
 
 ---
 
