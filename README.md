@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jency Rufina
+# Hi 👋, I'm Jency Rufina A
 
 🎓 Electrical & Computer Science Engineering Student  
 ⚡ Passionate about Embedded Systems & Core Electrical Engineering
